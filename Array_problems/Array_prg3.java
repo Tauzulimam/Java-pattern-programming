@@ -1,4 +1,4 @@
-//Finding max element in an array
+//Finding min element in an array
 
 import java.util.Scanner;
 
